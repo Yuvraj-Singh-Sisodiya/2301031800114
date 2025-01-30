@@ -1,1 +1,16 @@
+                                                              Assignment – 1    
 
+
+Step 1. Create/Log into GitHub.
+Step 2. Created a repository with the name [2301031800114].
+Selected repository visibility (public/private).
+Clicked on "Create Repository".
+Step 3. Clone the Repository
+Copied the repository URL from GitHub.
+Used the command git clone https://github.com/Yuvraj-Singh-Sisodiya/2301031800114.git to clone the repository locally.
+Step 4. Create Folders
+Assignment_1 
+Assignment_2
+Step 5. I added the folders to Git using git, such as Assignment_1 Assignment_2.
+Committed the changes using git commit -m "Added Assignment_1 and Assignment_2 folders".
+Step 6. Pushed the changes to GitHub using git push origin main.
